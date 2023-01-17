@@ -1,3 +1,14 @@
 theme: 'charlolamode'
 baseURL: https://vmilojevic.github.io
 publishDir: "docs"
+
+params:
+  profileMode:
+    title: Vladan Milojevic
+    description: |
+
+      Hello, I am Vladan.
+        I am a software engineer. 
+    
+
+      This is a minimalistic theme template for websites.
